@@ -1,0 +1,8 @@
+{
+  "data": {
+     "src"       : "src/**/*",
+     "temp"      : "temp",
+     "compress"  : "./target/galileo-component-logger",
+     "dest"      : "target/galileo-component-logger/1.0.0.0"
+  }
+}
