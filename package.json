@@ -1,0 +1,30 @@
+{
+  "name": "jquery-plugin",
+  "version": "0.0.0-ignored",
+  "engines": {
+    "node": ">= 0.6.0"
+  },
+  "scripts": {
+    "test": "grunt qunit"
+  },
+  "devDependencies": {
+    "grunt": "~0.3.17",
+    "grunt-contrib-nodeunit": "~0.1.1"
+  },
+  "build": 179,
+  "description": "ERROR: No README.md file found!",
+  "main": "grunt.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "fs": "~0.0.0",
+    "grunt-contrib-compress": "~0.3.3",
+    "grunt-contrib": "~0.3.0",
+    "grunt-css": "~0.3.2",
+    "grunt-clean": "~0.3.0"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD"
+}
